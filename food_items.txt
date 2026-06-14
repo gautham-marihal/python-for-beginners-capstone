@@ -1,0 +1,15 @@
+banana:105
+apple:95
+bread:80
+rice:200
+chicken:250
+fish:200
+vegetables:50
+fruits:80
+milk:150
+paneer:300
+peanut butter:190
+oats:150
+salads:100
+greek yogurt:120
+qas:321
